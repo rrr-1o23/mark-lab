@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f5; /* Softer light background for modern look */
+    margin: 10;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#editor-container {
+    width: 50%;
+    height: 90vh; /* Responsive height */
+    border-radius: 14px; /* Slightly larger radius for a modern look */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Softer shadow */
+    border: 1px solid #d1d1d1; /* Slightly darker border */
+    background-color: #2e3440; /* Darker background for the editor */
+    overflow: hidden; /* Prevents overflow */
+} 
+
+#preview-container {
+    width: 50%;
+    height: 90vh;
+    border-radius: 14px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border: 1px solid #d1d1d1;
+    background-color: #fff;
+    overflow: hidden;
+    padding: 20px;
+}
+
+#output-format {
+    background-color: #ff5733; /* ドロップダウンリストのオプションの背景色 */
+    color: white; /* ドロップダウンリストのオプションのテキスト色 */
+}
