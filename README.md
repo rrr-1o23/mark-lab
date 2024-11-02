@@ -16,12 +16,7 @@
 <p style="display: inline">
 <img src="https://img.shields.io/badge/-Linux-212121.svg?logo=linux&style=popout">
 <img src="https://img.shields.io/badge/-AWS-252F3E.svg?logo=amazon&style=popout">
-
-
-
 </p>
-
-&nbsp;
 
 ### 概要
 このプロジェクトで、MarkdownをHTMLに変換するウェブアプリケーションを開発しました。
